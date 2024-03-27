@@ -1,0 +1,10 @@
+chicken nuggets, 7.99
+beef, 6.5
+pork, 6.25
+salmon, 8.95
+chicken, 3.95
+hamburger, 4.95
+tilapia, 5.5
+short ribs, 9.95
+turkey, 12.95
+ham, 6.95

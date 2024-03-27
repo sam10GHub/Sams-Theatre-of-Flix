@@ -1,0 +1,15 @@
+multigrain bread, 4.5
+croissants, 6.5
+tuscan bread, 3.95
+bagels, 7.5
+baguette, 1.75
+chocolate cake, 8.25
+oatmeal cookies, 4.25
+chibata rolls, 3.0
+naan, 2.5
+pita, 3.0
+tortillas, 3.85
+
+
+
+
