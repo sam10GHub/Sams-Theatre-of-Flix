@@ -1,7 +1,0 @@
-brown rice, 4.25
-basmati, 3.0
-spaghetti, 1.75
-penne, 2.25
-ziti, 1.95
-risotto, 5.95
-lasagna, 3.95
